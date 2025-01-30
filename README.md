@@ -2,8 +2,7 @@
 ---
 
 ## IP (Internet Protocol)
-Número único que identifica un dispositivo en la red.
-Ejemplo: 192.168.1.1
+Número único que identifica un dispositivo en la red. (Ejemplo: 192.168.1.1)
 
 ## Dominio
 Nombre que reemplaza a una IP.
