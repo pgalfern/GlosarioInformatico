@@ -1,7 +1,7 @@
-#Glosario Informático
+# Glosario Informático
 ---
 
-##IP (Internet Protocol)
+## IP (Internet Protocol)
 Número único que identifica un dispositivo en la red.
 Ejemplo: 192.168.1.1 (IP privada).
 
