@@ -16,9 +16,13 @@ Ejemplo: https://www.ejemplo.com/blog/articulo.html
 Identifican servicios específicos en un servidor.
 
 21 - FTP (Transferencia de archivos)
+
 22 - SSH (Acceso seguro a servidores)
+
 80 - HTTP (Navegación web sin cifrado)
+
 443 - HTTPS (Navegación segura con cifrado)
+
 🔹 Servicio de Directorio
 Sistema para gestionar usuarios y recursos en una red.
 Ejemplo: Active Directory en Windows.
