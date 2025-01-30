@@ -45,7 +45,9 @@ Convierte nombres de dominio en direcciones IP.
 
 ## Servicio Web (Apache, Nginx)
 Software que muestra páginas web.
+
 Apache: Flexible y usado en muchos servidores.
+
 Nginx: Rápido y eficiente.
 
 ## Protocolo
