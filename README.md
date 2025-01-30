@@ -16,11 +16,15 @@ Ejemplo: https://www.ejemplo.com/blog.html.
 ## Puertos
 Identifican servicios en una red:
 
-21 - FTP (Transferencia de archivos).
-22 - SSH (Acceso remoto seguro).
-80 - HTTP (Navegación web sin cifrar).
-443 - HTTPS (Navegación segura).
-Servicio de Directorio
+21 - FTP (Transferencia de archivos)
+
+22 - SSH (Acceso remoto seguro)
+
+80 - HTTP (Navegación web sin cifrar)
+
+443 - HTTPS (Navegación segura)
+
+## Servicio de Directorio
 Sistema que gestiona usuarios y recursos en una red.
 Ejemplo: Active Directory.
 
