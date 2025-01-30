@@ -44,7 +44,7 @@ HTTPS: Cifrado y seguro.
 Convierte nombres de dominio en direcciones IP.
 
 ## Servicio Web (Apache, Nginx)
-Software que muestra páginas web.
+Son softwares que muestran páginas web.
 
 Apache: Flexible y usado en muchos servidores.
 
@@ -63,13 +63,13 @@ Acceso remoto seguro a servidores.
 Servicios y almacenamiento en servidores remotos.
 
 ## AWS, Google Cloud, Azure
-Plataformas de computación en la nube de Amazon, Google y Microsoft.
+Son plataformas de computación en la nube de Amazon, Google y Microsoft.
 
 ## Proxmox
-Sistema para administrar máquinas virtuales.
+Sistema que se utiliza para crear y administrar máquinas virtuales.
 
 ## Administrador
 Usuario con permisos especiales en un sistema.
 
 ## DevOps
-Método que une desarrollo y operaciones para automatizar procesos.
+Es un conjunto de prácticas y herramientas que sirve para automatizar e integrar los procesos que comparten el equipo de desarrollo de software y el de TI (Tecnologías de la Información).
