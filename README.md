@@ -3,15 +3,15 @@
 
 ## IP (Internet Protocol)
 Número único que identifica un dispositivo en la red.
-Ejemplo: 192.168.1.1 (IP privada).
+Ejemplo: 192.168.1.1
 
 ## Dominio
-Nombre fácil de recordar que apunta a una IP.
-Ejemplo: google.com en vez de 142.250.190.46.
+Nombre que reemplaza a una IP.
+Ejemplo: google.com en vez de 8.8.8.8
 
 ## URL (Uniform Resource Locator)
 Dirección completa de un recurso en Internet.
-Ejemplo: https://www.ejemplo.com/blog.html.
+Ejemplo: https://www.ejemplo.com
 
 ## Puertos
 Identifican servicios en una red:
@@ -26,10 +26,12 @@ Identifican servicios en una red:
 
 ## Servicio de Directorio
 Sistema que gestiona usuarios y recursos en una red.
-Ejemplo: Active Directory.
+Ejemplo: Active Directory
 
 ## OpenLDAP
-Sistema abierto para gestionar usuarios en redes.
+Permite que los usuarios encuentren información sobre las empresas y las personas, entre otros datos. Tiene dos objetivos principales
+- Almacenar estos datos en su directorio
+- Autorizar a los usuarios para que puedan acceder a él.
 
 ## Active Directory (AD)
 Servicio de Microsoft para administrar usuarios y permisos en redes.
@@ -45,7 +47,8 @@ Convierte nombres de dominio en direcciones IP.
 Software que muestra páginas web.
 Apache: Flexible y usado en muchos servidores.
 Nginx: Rápido y eficiente.
-Protocolo
+
+## Protocolo
 Reglas para comunicación en redes (Ejemplo: HTTP, FTP).
 
 ## RDP (Remote Desktop Protocol)
