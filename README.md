@@ -29,29 +29,34 @@ Sistema que gestiona usuarios y recursos en una red.
 Ejemplo: Active Directory
 
 ## OpenLDAP
-Permite que los usuarios encuentren información sobre las empresas y las personas, entre otros datos. Tiene dos objetivos principales
+Permite que los usuarios encuentren información sobre las empresas y las personas, entre otros datos. Tiene dos objetivos principales:
+
 - Almacenar estos datos en su directorio
+- 
 - Autorizar a los usuarios para que puedan acceder a él.
 
 ## Active Directory (AD)
 Servicio de Microsoft para administrar usuarios y permisos en redes.
 
 ## HTTP vs HTTPS
-HTTP: No cifrado.
-HTTPS: Cifrado y seguro.
+HTTP y HTTPS son protocolos para la comunicación entre navegadores y servidores web. Algunas de sus diferencias son las siguientes:
+
+HTTP: No tiene cifrado, los datos viajan en texto plano y pueden ser interceptados. Usa el puerto 80.
+
+HTTPS: Usa cifrado TLS/SSL, protege la información y evita ataques. Se usa en sitios seguros (bancos, tiendas en línea). Usa el puerto 443.
 
 ## DNS (Domain Name System)
 Convierte nombres de dominio en direcciones IP.
 
 ## Servicio Web (Apache, Nginx)
-Son softwares que muestran páginas web.
+Apache y Nginx son servidores web que permiten mostrar páginas en Internet. Algunas de sus diferencias son:
 
-Apache: Flexible y usado en muchos servidores.
+Apache: Flexible, con módulos personalizables, ideal para sitios dinámicos. Maneja bien tráfico moderado, pero puede ser menos eficiente con muchas conexiones simultáneas.
 
-Nginx: Rápido y eficiente.
+Nginx: Ligero y rápido, diseñado para manejar muchas conexiones con menos recursos. Funciona bien como balanceador de carga y servidor de contenido estático.
 
 ## Protocolo
-Reglas para comunicación en redes (Ejemplo: HTTP, FTP).
+Reglas para comunicación en redes (Ejemplo: HTTP y FTP)
 
 ## RDP (Remote Desktop Protocol)
 Permite conectarse a otro equipo de forma remota.
