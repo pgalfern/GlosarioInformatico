@@ -1,78 +1,66 @@
-# GlosarioInformatico
+#Glosario Informático
+---
 
-🔹 IP (Internet Protocol)
-Es un número único que identifica un dispositivo en una red.
-Ejemplo: 192.168.1.1 es una dirección IP privada típica en redes domésticas.
+##IP (Internet Protocol)
+Número único que identifica un dispositivo en la red.
+Ejemplo: 192.168.1.1 (IP privada).
 
-🔹 Dominio
-Nombre único que traduce una IP a un nombre fácil de recordar.
-Ejemplo: google.com en lugar de 142.250.190.46
+Dominio
+Nombre fácil de recordar que apunta a una IP.
+Ejemplo: google.com en vez de 142.250.190.46.
 
-🔹 URL (Uniform Resource Locator)
-Dirección completa para acceder a un recurso en Internet.
-Ejemplo: https://www.ejemplo.com/blog/articulo.html
+URL (Uniform Resource Locator)
+Dirección completa de un recurso en Internet.
+Ejemplo: https://www.ejemplo.com/blog.html.
 
-🔹 Puertos
-Identifican servicios específicos en un servidor.
+Puertos
+Identifican servicios en una red:
 
-21 - FTP (Transferencia de archivos)
+21 - FTP (Transferencia de archivos).
+22 - SSH (Acceso remoto seguro).
+80 - HTTP (Navegación web sin cifrar).
+443 - HTTPS (Navegación segura).
+Servicio de Directorio
+Sistema que gestiona usuarios y recursos en una red.
+Ejemplo: Active Directory.
 
-22 - SSH (Acceso seguro a servidores)
+OpenLDAP
+Sistema abierto para gestionar usuarios en redes.
 
-80 - HTTP (Navegación web sin cifrado)
+Active Directory (AD)
+Servicio de Microsoft para administrar usuarios y permisos en redes.
 
-443 - HTTPS (Navegación segura con cifrado)
-
-🔹 Servicio de Directorio
-Sistema para gestionar usuarios y recursos en una red.
-Ejemplo: Active Directory en Windows.
-
-🔹 OpenLDAP
-Implementación de código abierto del protocolo LDAP, usado para autenticación y gestión de directorios.
-
-🔹 Active Directory (AD)
-Servicio de directorio de Microsoft para gestionar usuarios, permisos y recursos en redes empresariales.
-
-🔹 Diferencia entre HTTP y HTTPS
-HTTP: No cifrado, datos visibles en la red.
-HTTPS: Cifrado con TLS/SSL, más seguro para transacciones y datos sensibles.
-🔹 Servicio DNS (Domain Name System)
+HTTP vs HTTPS
+HTTP: No cifrado.
+HTTPS: Cifrado y seguro.
+DNS (Domain Name System)
 Convierte nombres de dominio en direcciones IP.
-Ejemplo: www.google.com → 8.8.8.8
 
-🔹 Servicio Web (Apache, Nginx)
-Software que sirve páginas web.
+Servicio Web (Apache, Nginx)
+Software que muestra páginas web.
 
-Apache: Popular, flexible y con módulos extensibles.
-Nginx: Ligero y eficiente para manejar muchas conexiones simultáneas.
-🔹 Protocolo
-Conjunto de reglas para la comunicación en redes.
-Ejemplo: TCP/IP, HTTP, FTP.
+Apache: Flexible y usado en muchos servidores.
+Nginx: Rápido y eficiente.
+Protocolo
+Reglas para comunicación en redes (Ejemplo: HTTP, FTP).
 
-🔹 RDP (Remote Desktop Protocol)
-Protocolo de Microsoft para acceso remoto a escritorios.
+RDP (Remote Desktop Protocol)
+Permite conectarse a otro equipo de forma remota.
 
-🔹 SSH (Secure Shell)
-Protocolo para acceder a servidores de forma segura mediante la terminal.
+SSH (Secure Shell)
+Acceso remoto seguro a servidores.
 
-🔹 Cloud (Nube)
-Infraestructura que permite almacenar y procesar datos en servidores remotos en lugar de dispositivos locales.
+Cloud (Nube)
+Servicios y almacenamiento en servidores remotos.
 
-🔹 AWS (Amazon Web Services)
-Plataforma de servicios en la nube de Amazon con almacenamiento, cómputo y bases de datos.
+AWS, Google Cloud, Azure
+Plataformas de computación en la nube de Amazon, Google y Microsoft.
 
-🔹 Proxmox
-Plataforma de virtualización basada en Linux que permite gestionar máquinas virtuales y contenedores.
+Proxmox
+Sistema para administrar máquinas virtuales.
 
-🔹 Google Cloud
-Plataforma de Google para computación en la nube con servicios de IA, bases de datos y almacenamiento.
+Administrador
+Usuario con permisos especiales en un sistema.
 
-🔹 Azure
-Plataforma en la nube de Microsoft con herramientas de desarrollo, bases de datos y redes.
-
-🔹 Administrador
-Usuario con privilegios para gestionar sistemas, redes o servidores.
-
-🔹 DevOps
-Metodología que combina desarrollo (Dev) y operaciones (Ops) para automatizar procesos y mejorar despliegues en TI.
-
+DevOps
+Método que une desarrollo y operaciones para automatizar procesos.
